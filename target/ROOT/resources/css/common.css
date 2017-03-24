@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/NanumBarunGothic.eot);
+    src: local('fonts/Nanum Barun Gothic'),
+    local('fonts/NanumBarunGothic'),
+    url(fonts/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
+    url(fonts/NanumBarunGothic.woff2) format('woff2'),
+    url(fonts/NanumBarunGothic.woff) format('woff'),
+    url(fonts/NanumBarunGothic.ttf) format('truetype');
+}
+
+.number{display: none}
+.design_profile_img{width: 60px;height: 60px}
+.btn-product{color:white}
+.btn-product:hover{color:white;text-decoration: none}
+
+
+@font-face {
+    font-family: 'Nanum Barun Gothic';
+    font-style: normal;
+    font-weight: 700;
+    src: url(fonts/NanumBarunGothicBold.eot);
+    src: local('fonts/Nanum Barun Gothic Bold'),
+    local('fonts/NanumBarunGothicBold'),
+    url(fonts/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
+    url(fonts/NanumBarunGothicBold.woff2) format('woff2'),
+    url(fonts/NanumBarunGothicBold.woff) format('woff'),
+    url(fonts/NanumBarunGothicBold.ttf) format('truetype');
+}
+body{background-color: rgb(234,234,234);font-family:'Nanum Barun Gothic', '맑은고딕', dotum, '돋움', Gulim, '굴림', Verdana, sans-serif;}
+/*text가 넘쳐날때 ...으로 처리 */
+.text_overflow{
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+}
+
+.hideCate{
+    display:none
+}
+.aremove:hover{
+    text-decoration: none;
+}
+
+.mythum{
+    height: 175px;
+    overflow: hidden;
+}

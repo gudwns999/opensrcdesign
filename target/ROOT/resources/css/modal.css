@@ -1,0 +1,70 @@
+.close
+{
+    color:white ! important;
+    opacity:1.0;
+}
+#first-child
+{
+    top:0;
+    left:0;
+    background-color: yellowgreen;
+}
+#second-child
+{
+    top:0;
+    left:50%;
+    background-color: #E6537D;
+    color:black;
+}
+#third-child
+{
+    top:50%;
+    left:0;
+    background-color: crimson;
+}
+#fourth-child
+{
+    top:50%;
+    left:50%;
+    background-color: lightseagreen;
+    color:black;
+}
+
+
+
+.modal-dialog {
+
+    width: 90%;
+    height: 100%;
+    padding: 0;
+    margin:0;
+}
+.modal-content {
+
+    height: 100%;
+    border-radius: 0;
+    color:black;
+    overflow:auto;
+}
+.modal-title
+{
+    font-size: 3em;
+    font-weight: 300;
+    margin: 0 0 20px 0;
+}
+.modal-content-one
+{
+    background-color:whitesmoke;
+}
+.modal-content-two
+{
+    background-color:#E6537D;
+}
+.modal-content-three
+{
+    background-color:crimson;
+}
+.modal-content-four
+{
+    background-color:lightseagreen;
+}

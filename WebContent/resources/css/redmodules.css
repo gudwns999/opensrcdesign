@@ -1,0 +1,57 @@
+.maintitle {
+    margin-top: 30px;
+    background-color: red;
+    width: 390px;
+    height: 50px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+.maintitle2 {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.maintitle3 {
+    font-size: 5px;
+    color: #EAEAEA;
+}
+
+.regtitle{
+    margin-top: 50px;
+    background-color: red;
+    width: 260px;
+    height:50px;
+    margin-left:11%;
+    padding: 10px;
+}
+
+.regtitle2{
+    font-size: 20px;font-weight:bold;color: white;margin-left: 10px;padding: 10px;}
+
+.regtitle3{
+    font-size: 7px;
+    color:#EAEAEA;
+}
+
+.mytitle {
+
+    margin-top: 50px;
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+
+.mytitle2 {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+}
